@@ -1,7 +1,7 @@
 # 🧠 MindMate — Modern Mental Health Companion
 
 <div align="center">
-	<img src="ScreenShot/home.PNG" alt="MindMate Logo" width="600" />
+	<img src="ScreenShot/mindmate.png" alt="MindMate Logo" width="600" />
 	<br />
 	<b>A comprehensive mental health platform for mood tracking, community support, and AI-powered wellness recommendations.</b>
 </div>
@@ -15,10 +15,26 @@
 
 ---
 
+
+## 🚀 Live Demo
+
+- **Frontend (Next.js)**: [MindMate Frontend](https://mind-mate-sepia.vercel.app/)  
+- **Backend API (FastAPI)**: [MindMate API](https://mindmate-xzqc.onrender.com)
+- **Demo Video**: [MindMate Demo](https://youtu.be/pwKp3CORFaM)
+
+---
+
 ## 📸 Features & Screenshots
 
 <div align="center">
 <table>
+	<tr>
+		<td align="center" colspan="3" style="padding: 24px 0; vertical-align: top;">
+			<img src="ScreenShot/home.PNG" /><br />
+			<b>Landing Page</b><br />
+			<div style="margin-top: 8px;"></div>
+		</td>
+	</tr>
 	<tr>
 		<td align="center" colspan="3" style="padding: 24px 0; vertical-align: top;">
 			<img src="ScreenShot/dashboard.png" /><br />
@@ -352,7 +368,7 @@ MindMate/
 
 ---
 
-## 👥 Team: DU_Apricot
+## 👥 Team
 
 <div align="center">
 <table>
@@ -378,13 +394,13 @@ MindMate/
 ## 🌟 Show Your Support
 
 <div align="center">
-
-If MindMate helped you, please ⭐ **star** this repo to help others discover it!
-
-**🤝 Contribute** • **🍴 Fork** • **📢 Share**
+If you find MindMate helpful, please consider:
+<br />
+⭐ <b>Star</b> the repository | 🍴 <b>Fork</b> the project | 📢 <b>Share</b> with others | 🤝 <b>Contribute</b> code
+<br /><br />
+<b>Built with ❤️ for mental health and wellbeing</b>
+<br />
+<i>Making mental health support simple, safe, and beautiful</i>
+</div>
 
 ---
-
-**Built with ❤️ for mental health**
-
-</div>
